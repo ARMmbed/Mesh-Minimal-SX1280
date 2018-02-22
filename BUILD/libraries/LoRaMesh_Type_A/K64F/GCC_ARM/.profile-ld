@@ -1,0 +1,1 @@
+[u'-Wl,--gc-sections', u'-Wl,--wrap,main', u'-Wl,--wrap,_malloc_r', u'-Wl,--wrap,_free_r', u'-Wl,--wrap,_realloc_r', u'-Wl,--wrap,_memalign_r', u'-Wl,--wrap,_calloc_r', u'-Wl,--wrap,exit', u'-Wl,--wrap,atexit', u'-Wl,-n', '-mcpu=cortex-m4', '-mthumb', '-mfpu=fpv4-sp-d16', '-mfloat-abi=softfp'][]

@@ -1,0 +1,17 @@
+{
+  "name": "sx1280-rf-driver",
+  "version": "0.0.1",
+  "description": "RF driver for Semtech SX1280",
+  "keywords": [
+    "rf",
+    "driver"
+  ],
+  "author": "Changho Kim <changho@nodelinktech.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "nanostack-libservice": "^3.0.0",
+    "sal-stack-nanostack": "^5.0.0",
+    "mbed-drivers": "^1.0.0"
+  },
+  "targetDependencies": {}
+}

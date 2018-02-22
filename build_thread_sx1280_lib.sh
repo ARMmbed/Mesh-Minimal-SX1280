@@ -1,0 +1,1 @@
+mbed compile -m K64F -t GCC_ARM --app-config configs/mesh_thread_sx1280.json --library --no-archive
