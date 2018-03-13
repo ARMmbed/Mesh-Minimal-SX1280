@@ -1,6 +1,6 @@
-BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed-os/hal/mbed_sleep_manager.o: \
+BUILD/libraries/nltsender/K64F/GCC_ARM/mbed-os/hal/mbed_sleep_manager.o: \
  mbed-os/hal/mbed_sleep_manager.c \
- BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed_config.h \
+ BUILD/libraries/nltsender/K64F/GCC_ARM/mbed_config.h \
  mbed-os/platform/mbed_sleep.h mbed-os/hal/sleep_api.h \
  mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F/TARGET_FRDM/device.h \
  mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/api/objects.h \

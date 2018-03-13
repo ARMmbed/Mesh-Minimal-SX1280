@@ -1,6 +1,6 @@
-BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/sx1280-rf-driver/source/NanostackRfPhySx1280.o: \
+BUILD/libraries/nltsender/K64F/GCC_ARM/sx1280-rf-driver/source/NanostackRfPhySx1280.o: \
  sx1280-rf-driver/source/NanostackRfPhySx1280.cpp \
- BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed_config.h \
+ BUILD/libraries/nltsender/K64F/GCC_ARM/mbed_config.h \
  mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/mbed-client-libservice/platform/arm_hal_interrupt.h \
  mbed-os/features/nanostack/FEATURE_NANOSTACK/sal-stack-nanostack/nanostack/platform/arm_hal_phy.h \
  mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/mbed-client-libservice/ns_types.h \

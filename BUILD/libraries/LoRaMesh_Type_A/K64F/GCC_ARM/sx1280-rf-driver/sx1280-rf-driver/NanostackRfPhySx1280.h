@@ -38,7 +38,8 @@
 #define SX1280_SPI_RST    A0
 #endif
 #if !defined(SX1280_SPI_IRQ)
-#define SX1280_SPI_IRQ    D5
+//#define SX1280_SPI_IRQ    D5
+#define SX1280_SPI_IRQ    PTC6  // for the NXP new board testing
 #endif
 #if !defined(ATMEL_I2C_SDA)
 #define ATMEL_I2C_SDA    D14

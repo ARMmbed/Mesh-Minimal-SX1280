@@ -26,7 +26,7 @@
 void trace_printer(const char* str) {
     printf("%s\n", str);
 }
-
+Serial pc(USBTX, USBRX);
 #define ATMEL   1
 #define MCR20   2
 #define NCS36510 3
@@ -68,6 +68,9 @@ void serial_out_mutex_release()
 
 int main()
 {
+    int baud = 115200;
+    pc.baud(baud);
+    printf("setting baudrate %d\n",baud);
     mbed_trace_init();
     mbed_trace_print_function_set(trace_printer);
     mbed_trace_mutex_wait_function_set( serial_out_mutex_wait );
@@ -81,7 +84,8 @@ int main()
     printf("[ None-OS Based ]\n");
 #endif
 
-    printf("Start THREAD MESH application on SX1280 V0.91\n");
+    printf("Start THREAD MESH application on SX1280 V0.92\n");
+    printf("ping test application SDNA\n");
     printf("Build: %s %s\nMesh type: %d\n", __DATE__, __TIME__, MBED_CONF_APP_MESH_TYPE);
 
 #if MBED_CONF_APP_ENABLE_LED_CONTROL_EXAMPLE

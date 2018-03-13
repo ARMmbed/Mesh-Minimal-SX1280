@@ -1,6 +1,6 @@
-BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F/drivers/fsl_clock.o: \
+BUILD/libraries/nltsender/K64F/GCC_ARM/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F/drivers/fsl_clock.o: \
  mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F/drivers/fsl_clock.c \
- BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed_config.h \
+ BUILD/libraries/nltsender/K64F/GCC_ARM/mbed_config.h \
  mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F/drivers/fsl_clock.h \
  mbed-os/cmsis/core_cmSecureAccess.h \
  mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F/drivers/fsl_common.h \

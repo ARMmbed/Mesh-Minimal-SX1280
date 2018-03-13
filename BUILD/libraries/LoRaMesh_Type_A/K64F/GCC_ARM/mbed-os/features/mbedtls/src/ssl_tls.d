@@ -1,6 +1,6 @@
-BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed-os/features/mbedtls/src/ssl_tls.o: \
+BUILD/libraries/nltsender/K64F/GCC_ARM/mbed-os/features/mbedtls/src/ssl_tls.o: \
  mbed-os/features/mbedtls/src/ssl_tls.c \
- BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed_config.h \
+ BUILD/libraries/nltsender/K64F/GCC_ARM/mbed_config.h \
  mbed-os/features/mbedtls/inc/mbedtls/config.h \
  mbed-os/features/mbedtls/platform/inc/platform_mbed.h \
  mbed-os/features/mbedtls/inc/mbedtls/check_config.h \

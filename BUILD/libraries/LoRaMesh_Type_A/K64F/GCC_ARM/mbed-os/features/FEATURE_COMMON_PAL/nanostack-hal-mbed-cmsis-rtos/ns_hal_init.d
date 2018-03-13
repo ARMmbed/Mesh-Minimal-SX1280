@@ -1,6 +1,6 @@
-BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed-os/features/FEATURE_COMMON_PAL/nanostack-hal-mbed-cmsis-rtos/ns_hal_init.o: \
+BUILD/libraries/nltsender/K64F/GCC_ARM/mbed-os/features/FEATURE_COMMON_PAL/nanostack-hal-mbed-cmsis-rtos/ns_hal_init.o: \
  mbed-os/features/FEATURE_COMMON_PAL/nanostack-hal-mbed-cmsis-rtos/ns_hal_init.c \
- BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed_config.h \
+ BUILD/libraries/nltsender/K64F/GCC_ARM/mbed_config.h \
  mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/mbed-client-libservice/ns_types.h \
  mbed-os/features/FEATURE_COMMON_PAL/sal-stack-nanostack-eventloop/nanostack-event-loop/eventOS_scheduler.h \
  mbed-os/features/FEATURE_COMMON_PAL/nanostack-hal-mbed-cmsis-rtos/ns_event_loop.h \

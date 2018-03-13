@@ -1,6 +1,6 @@
-BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed-os/features/storage/FEATURE_STORAGE/cfstore/source/cfstore_test.o: \
+BUILD/libraries/nltsender/K64F/GCC_ARM/mbed-os/features/storage/FEATURE_STORAGE/cfstore/source/cfstore_test.o: \
  mbed-os/features/storage/FEATURE_STORAGE/cfstore/source/cfstore_test.c \
- BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed_config.h \
+ BUILD/libraries/nltsender/K64F/GCC_ARM/mbed_config.h \
  mbed-os/features/storage/FEATURE_STORAGE/cfstore/source/cfstore_config.h \
  mbed-os/features/storage/FEATURE_STORAGE/cfstore/source/cfstore_debug.h \
  mbed-os/features/storage/FEATURE_STORAGE/cfstore/source/cfstore_test.h \

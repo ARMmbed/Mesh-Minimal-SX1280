@@ -1,6 +1,6 @@
-BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed-os/features/netsocket/TCPServer.o: \
+BUILD/libraries/nltsender/K64F/GCC_ARM/mbed-os/features/netsocket/TCPServer.o: \
  mbed-os/features/netsocket/TCPServer.cpp \
- BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed_config.h \
+ BUILD/libraries/nltsender/K64F/GCC_ARM/mbed_config.h \
  mbed-os/features/netsocket/TCPServer.h \
  mbed-os/features/netsocket/Socket.h \
  mbed-os/features/netsocket/SocketAddress.h \

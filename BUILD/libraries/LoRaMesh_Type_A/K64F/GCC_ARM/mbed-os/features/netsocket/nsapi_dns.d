@@ -1,6 +1,6 @@
-BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed-os/features/netsocket/nsapi_dns.o: \
+BUILD/libraries/nltsender/K64F/GCC_ARM/mbed-os/features/netsocket/nsapi_dns.o: \
  mbed-os/features/netsocket/nsapi_dns.cpp \
- BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed_config.h \
+ BUILD/libraries/nltsender/K64F/GCC_ARM/mbed_config.h \
  mbed-os/features/netsocket/nsapi_dns.h \
  mbed-os/features/netsocket/nsapi_types.h \
  mbed-os/features/netsocket/NetworkStack.h \

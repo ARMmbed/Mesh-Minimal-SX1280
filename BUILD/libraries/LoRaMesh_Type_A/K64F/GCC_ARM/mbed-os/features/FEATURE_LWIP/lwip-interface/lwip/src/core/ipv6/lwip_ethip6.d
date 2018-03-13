@@ -1,6 +1,6 @@
-BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/core/ipv6/lwip_ethip6.o: \
+BUILD/libraries/nltsender/K64F/GCC_ARM/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/core/ipv6/lwip_ethip6.o: \
  mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/core/ipv6/lwip_ethip6.c \
- BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed_config.h \
+ BUILD/libraries/nltsender/K64F/GCC_ARM/mbed_config.h \
  mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/lwip/opt.h \
  mbed-os/features/FEATURE_LWIP/lwip-interface/lwipopts.h \
  mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-eth/arch/TARGET_Freescale/lwipopts_conf.h \

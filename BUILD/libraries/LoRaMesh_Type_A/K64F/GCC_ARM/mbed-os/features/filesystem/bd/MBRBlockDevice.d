@@ -1,6 +1,6 @@
-BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed-os/features/filesystem/bd/MBRBlockDevice.o: \
+BUILD/libraries/nltsender/K64F/GCC_ARM/mbed-os/features/filesystem/bd/MBRBlockDevice.o: \
  mbed-os/features/filesystem/bd/MBRBlockDevice.cpp \
- BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed_config.h \
+ BUILD/libraries/nltsender/K64F/GCC_ARM/mbed_config.h \
  mbed-os/features/filesystem/bd/MBRBlockDevice.h \
  mbed-os/features/filesystem/bd/BlockDevice.h mbed-os/mbed.h \
  mbed-os/rtos/rtos.h mbed-os/rtos/TARGET_CORTEX/mbed_rtos_storage.h \

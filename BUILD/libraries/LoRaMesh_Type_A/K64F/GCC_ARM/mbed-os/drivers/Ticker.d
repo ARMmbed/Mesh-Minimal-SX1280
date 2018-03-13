@@ -1,6 +1,6 @@
-BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed-os/drivers/Ticker.o: \
+BUILD/libraries/nltsender/K64F/GCC_ARM/mbed-os/drivers/Ticker.o: \
  mbed-os/drivers/Ticker.cpp \
- BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed_config.h \
+ BUILD/libraries/nltsender/K64F/GCC_ARM/mbed_config.h \
  mbed-os/drivers/Ticker.h mbed-os/drivers/TimerEvent.h \
  mbed-os/hal/ticker_api.h \
  mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F/TARGET_FRDM/device.h \

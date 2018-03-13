@@ -1,6 +1,6 @@
-BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed-os/drivers/BusInOut.o: \
+BUILD/libraries/nltsender/K64F/GCC_ARM/mbed-os/drivers/BusInOut.o: \
  mbed-os/drivers/BusInOut.cpp \
- BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed_config.h \
+ BUILD/libraries/nltsender/K64F/GCC_ARM/mbed_config.h \
  mbed-os/drivers/BusInOut.h mbed-os/drivers/DigitalInOut.h \
  mbed-os/platform/platform.h mbed-os/platform/mbed_retarget.h \
  mbed-os/platform/mbed_toolchain.h mbed-os/platform/mbed_preprocessor.h \

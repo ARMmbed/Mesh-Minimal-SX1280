@@ -1,6 +1,6 @@
-BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed-os/features/FEATURE_LWIP/lwip-interface/EthernetInterface.o: \
+BUILD/libraries/nltsender/K64F/GCC_ARM/mbed-os/features/FEATURE_LWIP/lwip-interface/EthernetInterface.o: \
  mbed-os/features/FEATURE_LWIP/lwip-interface/EthernetInterface.cpp \
- BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed_config.h \
+ BUILD/libraries/nltsender/K64F/GCC_ARM/mbed_config.h \
  mbed-os/features/FEATURE_LWIP/lwip-interface/EthernetInterface.h \
  mbed-os/features/netsocket/nsapi.h \
  mbed-os/features/netsocket/nsapi_types.h \

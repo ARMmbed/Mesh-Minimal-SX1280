@@ -1,6 +1,6 @@
-BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/netif/ppp/lwip_eui64.o: \
+BUILD/libraries/nltsender/K64F/GCC_ARM/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/netif/ppp/lwip_eui64.o: \
  mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/netif/ppp/lwip_eui64.c \
- BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed_config.h \
+ BUILD/libraries/nltsender/K64F/GCC_ARM/mbed_config.h \
  mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/netif/ppp/ppp_opts.h \
  mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/lwip/opt.h \
  mbed-os/features/FEATURE_LWIP/lwip-interface/lwipopts.h \

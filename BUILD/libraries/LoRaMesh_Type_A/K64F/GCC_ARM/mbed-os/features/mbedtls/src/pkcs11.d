@@ -1,6 +1,6 @@
-BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed-os/features/mbedtls/src/pkcs11.o: \
+BUILD/libraries/nltsender/K64F/GCC_ARM/mbed-os/features/mbedtls/src/pkcs11.o: \
  mbed-os/features/mbedtls/src/pkcs11.c \
- BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed_config.h \
+ BUILD/libraries/nltsender/K64F/GCC_ARM/mbed_config.h \
  mbed-os/features/mbedtls/inc/mbedtls/pkcs11.h \
  mbed-os/features/mbedtls/inc/mbedtls/config.h \
  mbed-os/features/mbedtls/platform/inc/platform_mbed.h \

@@ -1,6 +1,6 @@
-BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed-os/rtos/Thread.o: \
+BUILD/libraries/nltsender/K64F/GCC_ARM/mbed-os/rtos/Thread.o: \
  mbed-os/rtos/Thread.cpp \
- BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed_config.h \
+ BUILD/libraries/nltsender/K64F/GCC_ARM/mbed_config.h \
  mbed-os/rtos/Thread.h mbed-os/rtos/TARGET_CORTEX/rtx5/cmsis_os2.h \
  mbed-os/rtos/TARGET_CORTEX/mbed_rtos1_types.h \
  mbed-os/rtos/TARGET_CORTEX/rtx4/cmsis_os.h \

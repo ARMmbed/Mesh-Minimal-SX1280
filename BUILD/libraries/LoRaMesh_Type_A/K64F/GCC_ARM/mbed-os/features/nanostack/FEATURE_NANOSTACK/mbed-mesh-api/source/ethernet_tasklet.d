@@ -1,6 +1,6 @@
-BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed-os/features/nanostack/FEATURE_NANOSTACK/mbed-mesh-api/source/ethernet_tasklet.o: \
+BUILD/libraries/nltsender/K64F/GCC_ARM/mbed-os/features/nanostack/FEATURE_NANOSTACK/mbed-mesh-api/source/ethernet_tasklet.o: \
  mbed-os/features/nanostack/FEATURE_NANOSTACK/mbed-mesh-api/source/ethernet_tasklet.c \
- BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed_config.h \
+ BUILD/libraries/nltsender/K64F/GCC_ARM/mbed_config.h \
  mbed-os/features/FEATURE_COMMON_PAL/sal-stack-nanostack-eventloop/nanostack-event-loop/eventOS_event_timer.h \
  mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/mbed-client-libservice/ns_types.h \
  mbed-os/features/FEATURE_COMMON_PAL/sal-stack-nanostack-eventloop/nanostack-event-loop/eventOS_event.h \

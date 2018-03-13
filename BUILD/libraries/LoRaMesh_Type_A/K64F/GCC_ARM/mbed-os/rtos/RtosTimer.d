@@ -1,6 +1,6 @@
-BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed-os/rtos/RtosTimer.o: \
+BUILD/libraries/nltsender/K64F/GCC_ARM/mbed-os/rtos/RtosTimer.o: \
  mbed-os/rtos/RtosTimer.cpp \
- BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed_config.h \
+ BUILD/libraries/nltsender/K64F/GCC_ARM/mbed_config.h \
  mbed-os/rtos/RtosTimer.h mbed-os/rtos/TARGET_CORTEX/rtx5/cmsis_os2.h \
  mbed-os/rtos/TARGET_CORTEX/mbed_rtos_storage.h \
  mbed-os/rtos/TARGET_CORTEX/rtx5/rtx_lib.h \

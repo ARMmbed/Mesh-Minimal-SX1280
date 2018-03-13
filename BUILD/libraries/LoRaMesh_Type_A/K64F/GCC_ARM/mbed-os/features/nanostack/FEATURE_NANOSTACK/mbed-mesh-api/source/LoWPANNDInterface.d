@@ -1,6 +1,6 @@
-BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed-os/features/nanostack/FEATURE_NANOSTACK/mbed-mesh-api/source/LoWPANNDInterface.o: \
+BUILD/libraries/nltsender/K64F/GCC_ARM/mbed-os/features/nanostack/FEATURE_NANOSTACK/mbed-mesh-api/source/LoWPANNDInterface.o: \
  mbed-os/features/nanostack/FEATURE_NANOSTACK/mbed-mesh-api/source/LoWPANNDInterface.cpp \
- BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed_config.h \
+ BUILD/libraries/nltsender/K64F/GCC_ARM/mbed_config.h \
  mbed-os/features/nanostack/FEATURE_NANOSTACK/mbed-mesh-api/mbed-mesh-api/LoWPANNDInterface.h \
  mbed-os/features/nanostack/FEATURE_NANOSTACK/mbed-mesh-api/mbed-mesh-api/MeshInterfaceNanostack.h \
  mbed-os/mbed.h mbed-os/rtos/rtos.h \

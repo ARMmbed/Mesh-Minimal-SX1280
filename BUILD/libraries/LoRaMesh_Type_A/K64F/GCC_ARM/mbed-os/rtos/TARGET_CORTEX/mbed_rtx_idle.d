@@ -1,6 +1,6 @@
-BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed-os/rtos/TARGET_CORTEX/mbed_rtx_idle.o: \
+BUILD/libraries/nltsender/K64F/GCC_ARM/mbed-os/rtos/TARGET_CORTEX/mbed_rtx_idle.o: \
  mbed-os/rtos/TARGET_CORTEX/mbed_rtx_idle.cpp \
- BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed_config.h \
+ BUILD/libraries/nltsender/K64F/GCC_ARM/mbed_config.h \
  mbed-os/rtos/rtos_idle.h mbed-os/platform/mbed_sleep.h \
  mbed-os/hal/sleep_api.h \
  mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F/TARGET_FRDM/device.h \

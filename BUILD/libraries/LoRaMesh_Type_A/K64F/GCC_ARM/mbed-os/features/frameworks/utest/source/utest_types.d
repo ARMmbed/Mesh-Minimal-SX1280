@@ -1,6 +1,6 @@
-BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed-os/features/frameworks/utest/source/utest_types.o: \
+BUILD/libraries/nltsender/K64F/GCC_ARM/mbed-os/features/frameworks/utest/source/utest_types.o: \
  mbed-os/features/frameworks/utest/source/utest_types.cpp \
- BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed_config.h \
+ BUILD/libraries/nltsender/K64F/GCC_ARM/mbed_config.h \
  mbed-os/features/frameworks/utest/utest/utest_types.h \
  mbed-os/features/frameworks/utest/utest/utest_shim.h \
  mbed-os/features/frameworks/utest/utest/utest_scheduler.h mbed-os/mbed.h \

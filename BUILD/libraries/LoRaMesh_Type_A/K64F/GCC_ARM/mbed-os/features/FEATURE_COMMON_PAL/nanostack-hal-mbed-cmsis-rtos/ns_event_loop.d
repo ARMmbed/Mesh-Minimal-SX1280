@@ -1,6 +1,6 @@
-BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed-os/features/FEATURE_COMMON_PAL/nanostack-hal-mbed-cmsis-rtos/ns_event_loop.o: \
+BUILD/libraries/nltsender/K64F/GCC_ARM/mbed-os/features/FEATURE_COMMON_PAL/nanostack-hal-mbed-cmsis-rtos/ns_event_loop.o: \
  mbed-os/features/FEATURE_COMMON_PAL/nanostack-hal-mbed-cmsis-rtos/ns_event_loop.c \
- BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed_config.h \
+ BUILD/libraries/nltsender/K64F/GCC_ARM/mbed_config.h \
  mbed-os/platform/mbed_assert.h mbed-os/platform/mbed_preprocessor.h \
  mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F/device/cmsis.h \
  mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F/device/fsl_device_registers.h \

@@ -1,7 +1,6 @@
-BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/./main.o: main.cpp \
- BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed_config.h \
- mbed-os/mbed.h mbed-os/rtos/rtos.h \
- mbed-os/rtos/TARGET_CORTEX/mbed_rtos_storage.h \
+BUILD/libraries/nltsender/K64F/GCC_ARM/./main.o: main.cpp \
+ BUILD/libraries/nltsender/K64F/GCC_ARM/mbed_config.h mbed-os/mbed.h \
+ mbed-os/rtos/rtos.h mbed-os/rtos/TARGET_CORTEX/mbed_rtos_storage.h \
  mbed-os/rtos/TARGET_CORTEX/rtx5/rtx_lib.h \
  mbed-os/rtos/TARGET_CORTEX/rtx5/core_cm.h \
  mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F/device/cmsis.h \

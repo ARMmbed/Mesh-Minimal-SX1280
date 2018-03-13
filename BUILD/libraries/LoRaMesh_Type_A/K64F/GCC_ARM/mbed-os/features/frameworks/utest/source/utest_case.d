@@ -1,6 +1,6 @@
-BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed-os/features/frameworks/utest/source/utest_case.o: \
+BUILD/libraries/nltsender/K64F/GCC_ARM/mbed-os/features/frameworks/utest/source/utest_case.o: \
  mbed-os/features/frameworks/utest/source/utest_case.cpp \
- BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed_config.h \
+ BUILD/libraries/nltsender/K64F/GCC_ARM/mbed_config.h \
  mbed-os/features/frameworks/utest/utest/utest_case.h \
  mbed-os/features/frameworks/utest/utest/utest_types.h \
  mbed-os/features/frameworks/utest/utest/utest_shim.h \

@@ -1,6 +1,6 @@
-BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed-os/events/equeue/equeue.o: \
+BUILD/libraries/nltsender/K64F/GCC_ARM/mbed-os/events/equeue/equeue.o: \
  mbed-os/events/equeue/equeue.c \
- BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed_config.h \
+ BUILD/libraries/nltsender/K64F/GCC_ARM/mbed_config.h \
  mbed-os/events/equeue/equeue.h mbed-os/events/equeue/equeue_platform.h \
  mbed-os/rtos/TARGET_CORTEX/rtx5/cmsis_os2.h \
  mbed-os/rtos/TARGET_CORTEX/mbed_rtos_storage.h \

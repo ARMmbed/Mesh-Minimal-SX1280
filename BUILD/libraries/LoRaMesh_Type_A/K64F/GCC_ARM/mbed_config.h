@@ -59,7 +59,7 @@
 #define MBED_CONF_APP_MESH_TYPE                                               MESH_LOWPAN                                                                                      // set by application
 #define MBED_CONF_MBED_MESH_API_THREAD_CONFIG_EXTENDED_PANID                  {0xf1, 0xb5, 0xa1, 0xb2,0xc4, 0xd5, 0xa1, 0xbd }                                                 // set by library:mbed-mesh-api
 #define MBED_CONF_MBED_MESH_API_THREAD_CONFIG_ML_PREFIX                       {0xfd, 0x0, 0x0d, 0xb8, 0x0, 0x0, 0x0, 0x0}                                                      // set by library:mbed-mesh-api
-#define MBED_CONF_APP_BUTTON                                                  SW2                                                                                              // set by application[K64F]
+#define MBED_CONF_APP_BUTTON                                                  SW3                                                                                              // set by application[K64F]
 #define MBED_CONF_LWIP_ENABLE_PPP_TRACE                                       0                                                                                                // set by library:lwip
 #define MBED_CONF_MBED_MESH_API_THREAD_CONFIG_CHANNEL_PAGE                    0                                                                                                // set by library:mbed-mesh-api
 #define MBED_CONF_SX1280_RF_FULL_SPI_SPEED_BYTE_SPACING                       250                                                                                              // set by library:sx1280-rf
@@ -91,7 +91,7 @@
 #define MBED_CONF_MBED_MESH_API_HEAP_SIZE                                     14000                                                                                            // set by application[*]
 #define MBED_CONF_MBED_MESH_API_THREAD_CONFIG_NETWORK_NAME                    "Thread Network"                                                                                 // set by library:mbed-mesh-api
 #define MBED_CONF_DRIVERS_UART_SERIAL_TXBUF_SIZE                              256                                                                                              // set by library:drivers
-#define MBED_CONF_MBED_MESH_API_6LOWPAN_ND_CHANNEL                            12                                                                                               // set by application[*]
+#define MBED_CONF_MBED_MESH_API_6LOWPAN_ND_CHANNEL                            1                                                                                                // set by application[*]
 #define MBED_CONF_MBED_MESH_API_6LOWPAN_ND_SECURITY_MODE                      NONE                                                                                             // set by library:mbed-mesh-api
 #define MBED_CONF_LWIP_ADDR_TIMEOUT_MODE                                      1                                                                                                // set by library:lwip
 #define MBED_CONF_APP_RADIO_TYPE                                              ATMEL                                                                                            // set by application

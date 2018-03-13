@@ -1,6 +1,6 @@
-BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed-os/features/frameworks/greentea-client/source/greentea_serial.o: \
+BUILD/libraries/nltsender/K64F/GCC_ARM/mbed-os/features/frameworks/greentea-client/source/greentea_serial.o: \
  mbed-os/features/frameworks/greentea-client/source/greentea_serial.cpp \
- BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed_config.h \
+ BUILD/libraries/nltsender/K64F/GCC_ARM/mbed_config.h \
  mbed-os/features/frameworks/greentea-client/greentea-client/greentea_serial.h \
  mbed-os/drivers/RawSerial.h mbed-os/platform/platform.h \
  mbed-os/platform/mbed_retarget.h mbed-os/platform/mbed_toolchain.h \

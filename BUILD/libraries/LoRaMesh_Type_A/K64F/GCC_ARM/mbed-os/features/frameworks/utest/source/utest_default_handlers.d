@@ -1,6 +1,6 @@
-BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed-os/features/frameworks/utest/source/utest_default_handlers.o: \
+BUILD/libraries/nltsender/K64F/GCC_ARM/mbed-os/features/frameworks/utest/source/utest_default_handlers.o: \
  mbed-os/features/frameworks/utest/source/utest_default_handlers.cpp \
- BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed_config.h \
+ BUILD/libraries/nltsender/K64F/GCC_ARM/mbed_config.h \
  mbed-os/features/frameworks/utest/utest/utest_default_handlers.h \
  mbed-os/features/frameworks/utest/utest/utest_types.h \
  mbed-os/features/frameworks/utest/utest/utest_shim.h \

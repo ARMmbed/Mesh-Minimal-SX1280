@@ -1,6 +1,6 @@
-BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/api/lwip_err.o: \
+BUILD/libraries/nltsender/K64F/GCC_ARM/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/api/lwip_err.o: \
  mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/api/lwip_err.c \
- BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed_config.h \
+ BUILD/libraries/nltsender/K64F/GCC_ARM/mbed_config.h \
  mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/lwip/err.h \
  mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/lwip/opt.h \
  mbed-os/features/FEATURE_LWIP/lwip-interface/lwipopts.h \

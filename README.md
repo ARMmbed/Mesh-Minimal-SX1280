@@ -1,3 +1,50 @@
+
+#nodelink oneway ping test application
+
+##How to use it
+build by useing build_thread_sx1280.sh file
+
+insert into nodelink LR100 board (can't activate other board)
+
+open console
+put in mode number (0 = receiver , 1 = sender)
+by press Switch3 sender/recevier function will active
+
+
+
+
+##known problem
+if delete remark at
+313, 326, 343 line (add sequence filltering)
+send function(mode 1) will not active
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Example mesh application for mbed OS
 
 This application is the simplest one to utilize our mesh networking stack. By default the application demonstrates a simple light control application, where devices can control the LED status of all devices in the network.

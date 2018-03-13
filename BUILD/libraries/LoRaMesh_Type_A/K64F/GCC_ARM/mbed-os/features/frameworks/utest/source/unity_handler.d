@@ -1,6 +1,6 @@
-BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed-os/features/frameworks/utest/source/unity_handler.o: \
+BUILD/libraries/nltsender/K64F/GCC_ARM/mbed-os/features/frameworks/utest/source/unity_handler.o: \
  mbed-os/features/frameworks/utest/source/unity_handler.cpp \
- BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed_config.h \
+ BUILD/libraries/nltsender/K64F/GCC_ARM/mbed_config.h \
  mbed-os/features/frameworks/utest/utest/utest_harness.h \
  mbed-os/features/frameworks/utest/utest/utest_types.h \
  mbed-os/features/frameworks/utest/utest/utest_shim.h \

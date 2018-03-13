@@ -1,6 +1,6 @@
-BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed-os/features/filesystem/File.o: \
+BUILD/libraries/nltsender/K64F/GCC_ARM/mbed-os/features/filesystem/File.o: \
  mbed-os/features/filesystem/File.cpp \
- BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed_config.h \
+ BUILD/libraries/nltsender/K64F/GCC_ARM/mbed_config.h \
  mbed-os/features/filesystem/File.h \
  mbed-os/features/filesystem/FileSystem.h mbed-os/platform/platform.h \
  mbed-os/platform/mbed_retarget.h mbed-os/platform/mbed_toolchain.h \

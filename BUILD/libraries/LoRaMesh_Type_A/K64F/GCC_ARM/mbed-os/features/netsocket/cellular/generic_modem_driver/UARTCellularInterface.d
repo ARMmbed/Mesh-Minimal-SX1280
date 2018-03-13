@@ -1,6 +1,6 @@
-BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed-os/features/netsocket/cellular/generic_modem_driver/UARTCellularInterface.o: \
+BUILD/libraries/nltsender/K64F/GCC_ARM/mbed-os/features/netsocket/cellular/generic_modem_driver/UARTCellularInterface.o: \
  mbed-os/features/netsocket/cellular/generic_modem_driver/UARTCellularInterface.cpp \
- BUILD/libraries/LoRaMesh_Type_A/K64F/GCC_ARM/mbed_config.h \
+ BUILD/libraries/nltsender/K64F/GCC_ARM/mbed_config.h \
  mbed-os/features/netsocket/cellular/generic_modem_driver/UARTCellularInterface.h \
  mbed-os/features/netsocket/cellular/generic_modem_driver/PPPCellularInterface.h \
  mbed-os/features/netsocket/CellularBase.h \
